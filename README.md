@@ -1,2 +1,3 @@
-# usc-dsci-552-homework-4-submission
-DSCI-552 homework 4 submission
+## Submission
+All code and answers are located in `Enriquez_Scott_HW4.ipynb`.
+
